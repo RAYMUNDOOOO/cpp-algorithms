@@ -1,12 +1,12 @@
 # Overview
-**Difficulty:** Easy
-**Time complexity:**
-**Space complexity:**
+**Difficulty:** Easy  
+**Time complexity:**  
+**Space complexity:**  
 
 The goal of this particular problem is to ascertain whether we have a duplicate
 number in our input vector.
 
-** For example:** [1, 2, 3, 3, 5, 6, 6] contains a duplicate.
+**For example:** [1, 2, 3, 3, 5, 6, 6] contains a duplicate.
 
 # Method
 ## Using an unordered map
